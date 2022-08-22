@@ -41,8 +41,8 @@
             "sources" : [
             	{
                     "type" : "archive",
-                    "url" : "https://github.com/edfloreshz/done/releases/download/v0.1.1/done-0.1.1.tar.xz",
-                    "sha256" : "f86545ba182310dd680d8725f7bf340dad1cbb99efa42c5245149345365a36c6"
+                    "url" : "https://github.com/edfloreshz/done/releases/download/v0.1.2/done-0.1.2.tar.xz",
+                    "sha256" : "ce99db6bacf39da2a218a346461619ce9df444a808a80504083e14a49bff7baf"
                 }
             ]
         }
