@@ -1,7 +1,7 @@
 {
     "app-id" : "dev.edfloreshz.Done",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -42,8 +42,8 @@
             "sources" : [
             	{
                     "type" : "archive",
-                    "url" : "https://github.com/done-devs/done/releases/download/v0.1.7/done-0.1.7.tar.xz",
-                    "sha256" : "0a6f336c2c5c5cd23dd669e4701512cb28455c51b978ffc20f20285f22f5dfac"
+                    "url" : "https://github.com/done-devs/done/releases/download/v0.1.8/done-0.1.8.tar.xz",
+                    "sha256" : "c5a275526ee0760faefa01b5736a62c4235e212b0650e610b82fb5874ac2b9b9"
                 }
             ]
         }
