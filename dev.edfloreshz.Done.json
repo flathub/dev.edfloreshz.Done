@@ -43,7 +43,7 @@
             	{
                     "type" : "archive",
                     "url" : "https://github.com/done-devs/done/releases/download/v0.2.0/done-0.2.0.tar.xz",
-                    "sha256" : "ac56ddf5aa87eb584b5325453d5a99e9cd19aa68f367aa08e50ca1ef723d984e"
+                    "sha256" : "118e258ac8547a8266a5088397e9db87cf7670ef34d9bfe9ba7731966a3afa5a"
                 }
             ]
         }
