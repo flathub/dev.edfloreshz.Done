@@ -43,8 +43,8 @@
             "sources" : [
             	{
                     "type" : "archive",
-                    "url" : "https://github.com/done-devs/done/releases/download/v0.2.1/done-0.2.1.tar.xz",
-                    "sha256" : "cf3a28300b7ca3cdb33ece632d8d9905d9757e3154f05855deb8d86edf4d44df"
+                    "url" : "https://github.com/done-devs/done/releases/download/v0.2.2/done-0.2.2.tar.xz",
+                    "sha256" : "8b9e5b75fe478ce36502d03a09fe8b078c3ad6cef1a176547004d76f4a7ce2f4"
                 }
             ]
         }
